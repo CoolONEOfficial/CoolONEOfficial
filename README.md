@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📱 I'm an iOS developer at EPAM.
+📱 I'm an Senior iOS developer at EPAM.
 
 ✈️ Moved from 🇷🇺 to 🇷🇸
 
