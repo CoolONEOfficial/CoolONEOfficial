@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📱 I'm an Senior iOS developer at EPAM.
+📱 I'm an Senior iOS developer at NDA (fintech).
 
 ✈️ Moved from 🇷🇺 to 🇷🇸
 
