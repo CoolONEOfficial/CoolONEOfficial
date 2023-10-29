@@ -2,7 +2,7 @@
 
 📱 I'm an Senior iOS developer at NDA (fintech).
 
-✈️ Moved from 🇷🇺 to 🇷🇸
+🛫 Moved from 🇷🇺 > 🇷🇸 > 🇬🇧
 
 🔭 I’m currently working on on [Gymber](https://github.com/GymberClub), and another secret project 🤫
 
